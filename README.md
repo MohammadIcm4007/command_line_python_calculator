@@ -1,1 +1,4 @@
-"# command_line_python_calculator" 
+this is a very simple command line claculator with python 
+
+for run :
+``` python main.py ```
